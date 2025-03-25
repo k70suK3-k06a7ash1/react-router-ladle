@@ -1,1 +1,1 @@
-# React Router V7 integrate Ladle# react-router-ladle
+# React Router V7 integrate Ladle
